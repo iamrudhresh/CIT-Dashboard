@@ -1,0 +1,6 @@
+streamlit
+backoff
+pandas
+numpy
+bs4
+
